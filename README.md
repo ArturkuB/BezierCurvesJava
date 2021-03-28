@@ -2,6 +2,7 @@
 * [Ogólne informacje](#ogólne-informacje)
 * [Użyte technologie](#użyte-technologie)
 * [Sposób uruchomienia](#sposób-uruchomienia)
+* [Prezentacja](#prezentacja)
 
 ## Ogólne informacje
 Ten projekt wyświetla na ekranie obraz 2D przedstawiający inicjały AB stworzone za pomocą krzywych Béziera.
